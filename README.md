@@ -6,4 +6,4 @@
 4. Kumpulkan link di pengumpulan assignment ini
 
 # Resume
-[link text itself]: http://www.reddit.com
+[Lets go to Quora](https://www.quora.com)
