@@ -6,4 +6,4 @@
 4. Kumpulkan link di pengumpulan assignment ini
 
 # Resume
-[Lets go to Quora](https://www.quora.com)
+[Resume Pertemuan 4](https://drive.google.com/file/d/1-eEm4W5HrE9MEFYWfwba1JorXL3kq0nE/view?usp=sharing)
