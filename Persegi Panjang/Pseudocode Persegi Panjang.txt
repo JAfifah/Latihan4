@@ -1,0 +1,30 @@
+Keliling Persegi Panjang
+
+Deklarasi :
+panjang, lebar:Int
+keliling:float
+
+Deskripsi :
+Print "Masukkan panjang:"
+Read panjang
+Print "Masukkan lebar:"
+Read lebar
+keliling = 2 * (panjang + lebar)
+Print "Keliling Persegi Panjang adalah"
+print keliling
+
+
+Luas Persegi Panjang
+
+Deklarasi :
+panjang, lebar:Int
+luas:float
+
+Dekripsi :
+Print "Masukkan panjang:"
+Read panjang
+Print "Masukkan lebar:"
+Read lebar
+luas = panjang * lebar
+Print "Luas Persegi Panjang adalah"
+print luas

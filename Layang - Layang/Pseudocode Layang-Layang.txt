@@ -1,0 +1,34 @@
+Keliling Layang-Layang
+
+Deklarasi :
+SisiA, SisiB, SisiC, SisiD:Int
+keliling:float
+
+Deskripsi :
+Print "Masukkan Sisi A:"
+Read SisiA
+Print "Masukkan Sisi B:"
+Read SisiB
+Print "Masukkan Sisi C:"
+Read SisiC
+Print "Masukkan Sisi D:"
+Read SisiD
+keliling = SisiA + SisiB + SisiC + SisiD
+Print "Keliling Layang-Layang Adalah"
+print keliling
+
+
+Luas Segitiga Sama Sisi
+
+Deklarasi :
+diagonal1, diagonal2:double
+luas:double
+
+Dekripsi :
+Print "Masukkan diagonal1:"
+Read diagonal1
+Print "Masukkan diagonal2:"
+Read diagonal2
+luas = (diagonal1 * diagonal2) / 2
+Print "Luas Layang-Layang adalah"
+print luas

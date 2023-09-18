@@ -1,0 +1,26 @@
+Keliling Lingkaran
+
+Deklarasi :
+Jari-Jari=int
+Keliling=float
+
+Deskripsi :
+Print "Masukkan Jari-Jari"
+Read Jari-Jari
+keliling = 2 * 3.14f * Jari-Jari
+Print "keliling Lingkaran adalah"
+Print keliling
+
+
+Luas Lingkaran
+
+Deklarasi :
+Jari-Jari=int
+Keliling=float
+
+Deskripsi :
+Print "Masukkan Jari-Jari"
+Read Jari-Jari
+luas = 3.14f * (jari-jari * jari-jari)
+Print "Luas Lingkarang adalah"
+Print Luas

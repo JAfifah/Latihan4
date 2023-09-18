@@ -1,0 +1,140 @@
+Keliling Segitiga Sama Sisi
+
+Deklarasi :
+SisiA, SisiB, SisiC:Int
+keliling:float
+
+Deskripsi :
+Print "Masukkan Sisi A:"
+Read SisiA
+Print "Masukkan Sisi B:"
+Read SisiB
+Print "Masukkan Sisi C:"
+Read SisiC
+keliling = SisiA + SisiB + SisiC
+Print "Keliling Segitiga Sama Sisi Adalah"
+print keliling
+
+
+Luas Segitiga Sama Sisi
+
+Deklarasi :
+alas, tinggi:Int
+luas:float
+
+Dekripsi :
+Print "Masukkan alas:"
+Read alas
+Print "Masukkan tinggi:"
+Read tinggi
+luas = 0,5 * alas * tinggi
+Print "Luas Segitiga Sama Sisi adalah"
+print luas
+
+
+
+Keliling Segitiga Sama Kaki
+
+Deklarasi :
+SisiA, SisiB, SisiC:Int
+keliling:float
+
+Deskripsi :
+Print "Masukkan Sisi A:"
+Read SisiA
+Print "Masukkan Sisi B:"
+Read SisiB
+Print "Masukkan Sisi C:"
+Read SisiC
+keliling = SisiA + SisiB + SisiC
+Print "Keliling Segitiga Sama Kaki Adalah"
+print keliling
+
+
+Luas Segitiga Sama Kaki
+
+Deklarasi :
+alas, tinggi:Int
+luas:float
+
+Dekripsi :
+Print "Masukkan alas:"
+Read alas
+Print "Masukkan tinggi:"
+Read tinggi
+luas = 0,5 * alas * tinggi
+Print "Luas Segitiga Sama Kaki adalah"
+print luas
+
+
+
+Keliling Segitiga Siku-Siku
+
+Deklarasi :
+SisiA, SisiB, SisiC:Int
+keliling:float
+
+Deskripsi :
+Print "Masukkan Sisi A:"
+Read SisiA
+Print "Masukkan Sisi B:"
+Read SisiB
+Print "Masukkan Sisi C:"
+Read SisiC
+keliling = SisiA + SisiB + SisiC
+Print "Keliling Segitiga Siku-Siku Adalah"
+print keliling
+
+
+Luas Segitiga Sama Kaki
+
+Deklarasi :
+alas, tinggi:Int
+luas:float
+
+Dekripsi :
+Print "Masukkan alas:"
+Read alas
+Print "Masukkan tinggi:"
+Read tinggi
+luas = 0,5 * alas * tinggi
+Print "Luas Segitiga Siku-Siku adalah"
+print luas
+
+
+
+Keliling Segitiga Sembarang
+
+Deklarasi :
+SisiA, SisiB, SisiC:Int
+keliling:float
+
+Deskripsi :
+Print "Masukkan Sisi A:"
+Read SisiA
+Print "Masukkan Sisi B:"
+Read SisiB
+Print "Masukkan Sisi C:"
+Read SisiC
+keliling = SisiA + SisiB + SisiC
+Print "Keliling Segitiga Sembarang Adalah"
+print keliling
+
+
+Luas Segitiga Sama Kaki
+
+Deklarasi :
+sisi a, sisi b, sisi c:double
+luas:double
+
+Dekripsi :
+Print "Masukkan sisi a:"
+Read sisi a
+Print "Masukkan sisi b:"
+Read sisi b
+Print "Masukkan sisi c:"
+Read sisi c
+s = (a + b + c) / 2
+luas = Math.sqrt(s * (s - a) * (s - b) * (s - c))
+Print "Luas Segitiga Sembarang adalah"
+print luas
