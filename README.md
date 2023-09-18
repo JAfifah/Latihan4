@@ -6,3 +6,4 @@
 4. Kumpulkan link di pengumpulan assignment ini
 
 # Resume
+[I'm an inline-style link](https://drive.google.com/file/d/1-eEm4W5HrE9MEFYWfwba1JorXL3kq0nE/view?usp=sharing)
